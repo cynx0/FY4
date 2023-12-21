@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  hey, i made this website just for you in hopes that i could finally tell you everything that ive been meaning too.
+
+ long time no speak , i thought i would make this for you so i could tell you how everything u have been deserving too hear.
+i want you to know life has been good for me so far , ive really learnt to be happy and moved on from everything 
+i still have bad and good days , but who doesnt , ive REALLY wanted to say SORRY for everything.
+i put you throught too much and i didnt wish too , i hope your happy with life. 
+i wanted to also let you know that im really proud of you , ive seen how hard you have ben working through ur grades and im happy for you 
+im sorry for being so needy and pushy back then , i cannot stress how sorry i am for everything 
+also im sorry for laughing when ur grandad died i lost mine too back in the summer and i cant imagine how u felt 
+it mustve been horrible and i just laughed im so sorry really u deserve the world with how patient you were with me 
+theres been so much good thats happened but i wont bore you with all of it , thank you for everything u have done for me 
+
+but i just want to let you know how sorry i am , really i have changed and become better 
+dont worry about the ignoring thing ill still keep that up if its want , i would be surprised if u even read all of this 
+i wish u do well in ur exams and i hope you enjoy ur christmas and ur bday too cuz when i see you again itll be ur bday. 
+
+from Mr.EE
+</body>
+</html>
